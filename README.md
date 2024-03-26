@@ -1,5 +1,5 @@
 # ONX
-## Open Nano Exchange (ONX) Protocol: A Decentralized, Asset-Backed Cryptocurrency Exchange System Built on Nano Technology
+## Open Nano Exchange (ONX) Protocol: A Decentralized, Asset-Backed Cryptocurrency Exchange System Built on NanoCurrency Technology
 
 ### Abstract
 
