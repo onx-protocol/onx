@@ -19,6 +19,7 @@ The project is at proposal stage, if you would like to propose a change to the p
 
 - A title for you proposal with the format 'ONX Proposal: Title of your proposal'
 - A summary of your proposal in no more than 200 words
-- The proposal in markkdown format which should ideally be no longer than 500-800 words. For longer proposals please submit a PDF.
+- The proposal in markdown format with a .md extension named in the same fashion as the title of your proposal.
+- The proposal should ideally be no longer than 500-800 words. For longer proposals please submit a PDF with a version number.
 - Proposals should be saved in the /proposals folder
 - Make a pull request with your proposal, if accepted your proposal will go into a branch for review.
