@@ -7,8 +7,6 @@ The ONX Protocol creates a decentralized settlement network of cryptocurrency ex
 
 By offering an open and transparent system of exchanges, the protocol hopes to enhance security, decentralization, and promote wider adoption of Nano technology through more familiar fiat-pegged currencies or already widely adopted digital assets. 
 
-The objective of this living whitepaper is to address and solve the challanges of running an exchange protocol within specific jurisdictions and seed a movement of free open-source software platforms that operate ONX around the world, wherever they are needed. A reference ONX software platform which implements the protocol is included within this repository.
-
 ### Stage of development
 
 *Accepting Proposals*
