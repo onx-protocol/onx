@@ -13,7 +13,7 @@ The objective of this living whitepaper is to address and solve the challanges o
 
 *Accepting Proposals*
 
-There are a number of stages that the project will go through before becoming a reality. This is an open project and **anyone** is encouraged to contribute. Please read our 'Core Challenges' section on the whitepaper.
+There are a number of stages that the project will go through before becoming a reality. This is an open project and **anyone** is encouraged to contribute. Please read the /challenges section of the repository.
 
 The project is at proposal stage, if you would like to propose a change to the project please provide:
 
