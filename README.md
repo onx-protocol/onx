@@ -11,7 +11,7 @@ By offering an open and transparent system of exchanges, the protocol hopes to e
 
 *Accepting Proposals*
 
-There are a number of stages that the project will go through before becoming a reality. This is an open project and **anyone** is encouraged to contribute. Please read the /challenges section of the repository.
+There are a number of stages that the project will go through before becoming a reality. This is an open project and **anyone** is encouraged to contribute via pull request. Please read the /challenges section of the repository.
 
 The project is at proposal stage, if you would like to propose a change to the project please provide:
 
