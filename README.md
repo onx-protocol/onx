@@ -1,6 +1,8 @@
 # ONX
 ## Open Nano Exchange (ONX) Protocol: A Decentralized, Asset-Backed NanoCurrency Exchange System
 
+![ONX Protocol Logo](https://raw.githubusercontent.com/onx-protocol/onx/main/assets/onx-logo-icon-transparent.png)
+
 ### Abstract
 
 The ONX Protocol creates a decentralized settlement network of cryptocurrency exchanges based upon and using [Nano Currency technology](nano.org). It aims to establish a network of asset-backed NanoCurrencies like NanoDollars, NanoEuros, NanoBitcoin or NanoEthereum pegged to real-world or digital assets. This enables a distributed, decentralized, fee-free, near-instantaneous cross-border transaction system of exchange. ONX leverages the status given to any Principle Representative (PR) node within the Nano network to operate global consensus and standards, offering a profitable exchange business model for any entity running a PR. 
